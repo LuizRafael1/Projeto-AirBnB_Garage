@@ -1,6 +1,7 @@
 # AirBnB Garage
 
-Projeto de site desenvolvido com HTML e CSS.
+Projeto de site desenvolvido com HTML e CSS, simulando uma plataforma
+de aluguel de garagens.
 
 ## 💻 Tecnologias
 - HTML
@@ -13,4 +14,14 @@ Projeto de site desenvolvido com HTML e CSS.
 - Formulário de cadastro
 
 ## 🎯 Objetivo
-Praticar desenvolvimento web e estruturação de páginas.
+Praticar desenvolvimento web, estruturação de páginas e organização de layout.
+
+
+##▶️ Como executar
+1. Baixe os arquivos do projeto
+2. Abra o arquivo `Site-Trabalho.html` no navegador
+
+
+##📷 Preview 
+![Preview do site](preview.png)
+![Preview do site](preview-2.png)
