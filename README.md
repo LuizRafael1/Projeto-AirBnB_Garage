@@ -3,17 +3,17 @@
 Projeto de site desenvolvido com HTML e CSS, simulando uma plataforma
 de aluguel de garagens.
 
-## 💻 Tecnologias
+## Tecnologias
 - HTML
 - CSS
 
-## 📌 Funcionalidades
+## Funcionalidades
 - Navegação por seções (single page)
 - Layout estruturado
 - Listagem de garagens
 - Formulário de cadastro
 
-## 🎯 Objetivo
+## Objetivo
 Praticar desenvolvimento web, estruturação de páginas e organização de layout.
 
 
