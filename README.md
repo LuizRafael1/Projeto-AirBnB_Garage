@@ -17,11 +17,11 @@ de aluguel de garagens.
 Praticar desenvolvimento web, estruturação de páginas e organização de layout.
 
 
-##▶️ Como executar
+## Como executar
 1. Baixe os arquivos do projeto
 2. Abra o arquivo `Site-Trabalho.html` no navegador
 
 
-##📷 Preview 
+## Preview 
 ![Preview do site](preview.png)
 ![Preview do site](preview-2.png)
