@@ -1,7 +1,6 @@
 # AirBnB Garage
 
-Projeto de site desenvolvido com HTML e CSS, simulando uma plataforma
-de aluguel de garagens.
+Projeto desenvolvido com HTML e CSS durante o curso técnico, com o objetivo de simular uma plataforma de aluguel de garagens.
 
 ## Tecnologias
 - HTML
